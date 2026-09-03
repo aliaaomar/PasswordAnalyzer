@@ -1,0 +1,9 @@
+# Password vault files (Keep sensitive data private)
+passwords_bcrypt.json
+passwords.enc
+*.json
+*.enc
+
+# Python cache
+__pycache__/
+*.pyc
